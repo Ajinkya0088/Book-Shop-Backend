@@ -1,0 +1,12 @@
+com\library\repository\BookRepository.class
+com\library\repository\StudentRepository.class
+com\library\controller\UserController$1.class
+com\library\repository\UserRepository.class
+com\library\SwaggerConfig.class
+com\library\model\Student.class
+com\library\Student.class
+com\library\model\Book.class
+com\library\controller\BookController.class
+com\library\controller\UserController.class
+com\library\model\Users.class
+com\library\controller\StudentController.class
